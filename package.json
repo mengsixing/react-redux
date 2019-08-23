@@ -4,8 +4,8 @@
   "description": "Use react hooks api instead of official react-redux.",
   "main": "bin/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": " rollup -c"
+    "prepublish": " rollup -c ",
+    "publish": "np"
   },
   "repository": {
     "type": "git",

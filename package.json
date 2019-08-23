@@ -1,8 +1,8 @@
 {
   "name": "@yhlben/react-redux",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Use react hooks api instead of official react-redux.",
-  "main": "index.js",
+  "main": "bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": " rollup -c"

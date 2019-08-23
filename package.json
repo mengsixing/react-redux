@@ -1,6 +1,6 @@
 {
   "name": "@yhlben/react-redux",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Use react hooks api instead of official react-redux.",
   "main": "bin/index.js",
   "scripts": {
